@@ -1,29 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head></head>
-<body>
-<h1>hi there</h1>
+## **Hi there** 👋
+- 🌱 I’m currently learning logic design and computer organization
 
-
-<a href="">
-<i style="color: #1b9ff1" class="fab fa-twitter fa-2x"></i>
-</a>
-<a href="">
-<i style="color: #1775f1" class="fab fa-facebook fa-2x"></i>
-</a>
-<a href="">
-<i style="color: #8039c8" class="fab fa-instagram fa-2x"></i>
-</a>
-<a href="https://github.com/ahmdnbil" target="_blank">
-<i style="color: black" class="fab fa-github fa-2x"></i>
-</a>
-<a href="">
-<i style="color: rgb(11 102 195)" class="fab fa-linkedin-in fa-2x"></i>
-</a>
-<a href="">
-<i style="color: #00e861" class="fab fa-hackerrank fa-2x"></i>
-</a>
-
-<script src="https://kit.fontawesome.com/6d2ea823d0.js"></script>
-</body>
-</html>
+<div style="
+          display:flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          margin:0 auto;
+          padding:10px;
+          width:fit-content;
+          border-radius:10px 10px 10px 10px; ">
+<h3 style=" font-weight: bold; font-style:italic;">Social Accounts</h3>
+<div>
+<a href="https://twitter.com/ahmdnbil18"><img style="width:20px; height:20px;" src="./images/twitter_logo.png"/></a>
+<a href="https://www.facebook.com/Anbil11/"><img style="width:20px; height:20px;" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-clipart-flat-facebook-logo-png-icon-circle-22.png"/></a>
+<a href="https://www.hackerrank.com/ahmdnbil"><img style="width:25px; height:25px;" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"/></a>
+<a href="https://www.linkedin.com/in/ahmdnbil/"><img style="width:25px; height:25px;" src="https://www.pngmart.com/files/21/Linkedin-PNG-HD-Isolated.png"/></a>
+</div>
+</div>
