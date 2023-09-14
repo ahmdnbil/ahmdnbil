@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmdnbil18" target="blank"><img src="https://img.shields.io/twitter/follow/ahmdnbil18?logo=twitter&style=for-the-badge" alt="ahmdnbil18" /></a> </p>
 
-- 💬 Ask me about **Embedded systems**
+- 💬 Ask me about **Embedded systems, Power Electronics, And Control Theory**
 
 - 📫 How to reach me **ahmedngalal333@gmail.com**
 
